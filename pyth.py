@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-capture = cv2.VideoCapture('C:\Users\BY-FARIKS\OneDrive\Рабочий стол\pythonn\videoplayback.mp4')
+capture = cv2.VideoCapture(r"C:\Users\BY-FARIKS\OneDrive\Рабочий стол\pythonn\videoplayback.mp4")
 
 # Параметры вращения
 angle = 0  # Начальный угол
